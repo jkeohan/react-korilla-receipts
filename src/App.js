@@ -26,7 +26,7 @@ const receipt2 = {
     drink: "Korchata",
     cost: 19
   },
-  paid: true
+  paid: false
 }
 const receipt3 = {
   person: "Matt",
